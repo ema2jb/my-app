@@ -1,6 +1,6 @@
 import React from 'react'
 //config
-import {BACKDROP_SIZE, POSTER_SIZE, IMAGE_BASE_URL} from '../../config'
+import {POSTER_SIZE, IMAGE_BASE_URL} from '../../config'
 //styles
 import {Wrapper, Content, Text} from './movieInfo.styles'
 //components
